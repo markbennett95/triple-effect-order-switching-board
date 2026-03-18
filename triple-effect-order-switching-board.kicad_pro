@@ -621,7 +621,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "kicad-template-1590XX.kicad_pro",
+    "filename": "triple-effect-order-switching-board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -770,7 +770,7 @@
   },
   "sheets": [
     [
-      "0931d4cd-bc79-4e0b-a395-63d6dc93deda",
+      "6ca3b0dc-f3cf-455d-b728-943d08aa9623",
       "Root"
     ]
   ],
